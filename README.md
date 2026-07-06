@@ -116,7 +116,7 @@ const gabriel = {
 <p align="center">⋆ ⋆ ⋆</p>
 
 <div align="center">
-<img src="./assets/life-balance.svg" width="380" alt="checkboxes de vida social, trabalho e sono se alternando, nunca os três marcados ao mesmo tempo" />
+<img src="life-balance.svg" width="380" alt="checkboxes de vida social, trabalho e sono se alternando, nunca os três marcados ao mesmo tempo" />
 </div>
 
 <p align="center">⋆ ⋆ ⋆</p>
