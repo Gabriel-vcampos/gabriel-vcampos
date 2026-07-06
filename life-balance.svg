@@ -1,0 +1,28 @@
+<svg viewBox="0 0 380 200" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Vida social, trabalho e sono — só dois de três</title>
+<desc>Animação em loop de três caixas de seleção (Vida social, Trabalho, Sono) que nunca ficam todas marcadas ao mesmo tempo.</desc>
+<style>
+  .bg { fill: #101617; }
+  .box { fill: none; stroke: #DDA366; stroke-width: 3; }
+  .label { fill: #F0C99B; font-size: 17px; font-family: Poppins, Arial, sans-serif; }
+  .caption { fill: #B97A3E; font-size: 12px; font-style: italic; font-family: Poppins, Arial, sans-serif; }
+  .check { stroke: #F5D77B; stroke-width: 4; fill: none; stroke-linecap: round; stroke-linejoin: round; }
+  #c-social { animation: blinkSocial 9s infinite; }
+  #c-work   { animation: blinkWork 9s infinite; }
+  #c-sleep  { animation: blinkSleep 9s infinite; }
+  @keyframes blinkSocial { 0%,32% {opacity:1;} 33%,65% {opacity:0;} 66%,100% {opacity:1;} }
+  @keyframes blinkWork   { 0%,65% {opacity:1;} 66%,100% {opacity:0;} }
+  @keyframes blinkSleep  { 0%,32% {opacity:0;} 33%,100% {opacity:1;} }
+</style>
+<rect class="bg" x="0" y="0" width="380" height="200" rx="14"/>
+<rect class="box" x="24" y="28" width="26" height="26" rx="6"/>
+<path id="c-social" class="check" d="M28 41 L36 49 L50 31"/>
+<text class="label" x="64" y="47">Vida social</text>
+<rect class="box" x="24" y="78" width="26" height="26" rx="6"/>
+<path id="c-work" class="check" d="M28 91 L36 99 L50 81"/>
+<text class="label" x="64" y="97">Trabalho</text>
+<rect class="box" x="24" y="128" width="26" height="26" rx="6"/>
+<path id="c-sleep" class="check" d="M28 141 L36 149 L50 131"/>
+<text class="label" x="64" y="147">Sono</text>
+<text class="caption" x="24" y="185">escolhe 2 de 3 — os três juntos, nunca 😅</text>
+</svg>
