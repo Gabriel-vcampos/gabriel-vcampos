@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.jpg" width="100%" alt="Gabriel Virginio Campos — Desenvolvedor Júnior" />
+<img src="banner.jfif" width="100%" alt="Gabriel Virginio Campos — Desenvolvedor Júnior" />
 
 <br/>
 
@@ -92,12 +92,15 @@ const gabriel = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gabriel-vcampos&show_icons=true&hide_border=true&bg_color=101617&title_color=DDA366&text_color=ECA567&icon_color=DDA366" alt="GitHub Stats" width="48%" />
+<img
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabriel-vcampos&show_icons=true&hide_border=true&bg_color=101617&title_color=DDA366&text_color=ECA567&icon_color=DDA366"
+width="48%"
+/>
 <img src="https://streak-stats.demolab.com?user=Gabriel-vcampos&hide_border=true&background=101617&stroke=101617&ring=DDA366&fire=DDA366&currStreakLabelColor=F0C99B" alt="GitHub Streak" width="48%" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Gabriel-vcampos&theme=gruvbox&no-frame=true&row=1&column=6" alt="Trophies" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gabriel-vcampos&layout=compact&hide_border=true&bg_color=101617&title_color=DDA366&text_color=ECA567" width="40%" />
 
 </div>
 
@@ -113,14 +116,9 @@ const gabriel = {
 </picture>
 </div>
 
-<p align="center">⋆ ⋆ ⋆</p>
-
-<div align="center">
+<div class="mt-10" align="center">
 <img src="life-balance.svg" width="380" alt="checkboxes de vida social, trabalho e sono se alternando, nunca os três marcados ao mesmo tempo" />
 </div>
 
-<p align="center">⋆ ⋆ ⋆</p>
 
-<div align="center">
-<img src="https://capsule-render.com/api?type=waving&color=0:B97A3E,100:101617&height=100&section=footer" width="100%"/>
-</div>
+
