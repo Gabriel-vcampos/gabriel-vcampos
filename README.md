@@ -4,111 +4,59 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3000&pause=900&color=F5D77B&center=true&vCenter=true&width=680&lines=Desenvolvedor+J%C3%BAnior+%40+IT+Advanced;ADVPL+%C2%B7+Vue.js+%C2%B7+SQL%2FOracle+%C2%B7+Power+BI;Em+transi%C3%A7%C3%A3o+para+Java+%2F+Spring+Boot" alt="Typing SVG" />
-
-<br/><br/>
-
-<a href="https://linkedin.com/in/gabrielvirginiocampos">
-  <img src="https://img.shields.io/badge/LinkedIn-101617?style=for-the-badge&logo=linkedin&logoColor=DDA366" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=Gabriel-vcampos&color=DDA366&style=for-the-badge&label=VISITAS" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3000&pause=1000&color=F5D77B&center=true&vCenter=true&width=700&lines=Protheus+%E2%80%A2+Vue.js;SQL%2FOracle+%E2%80%A2+Java" alt="Typing SVG" />
 
 </div>
 
-<br/>
+### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmZsbzF1bnJlY2lkaHhndDY2eWpmajBndXo3ZXNvMzJiMGh1cHpvYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TemsqPjlGFpYt0IxYr/giphy.gif" width="45"> Um pouco mais sobre mim...
 
-## 🧑‍💻 sobre mim
-
-```js
+```javascript
 const gabriel = {
-  role: "Desenvolvedor Júnior @ IT Advanced",
-  location: "Nilópolis, RJ 🇧🇷",
-  ecosystem: "TOTVS Protheus",
-  stack: ["ADVPL", "Vue.js", "SQL/Oracle", "Power BI", "REST Webservices"],
-  formacao: ["ADS - Centro Universitário Celso Lisboa", "Full Stack - Senac Rio"],
-  idiomas: ["Português (nativo)", "Inglês (B2 - CNA Idiomas)"],
-  focoAtual: "transição para Java / Spring Boot",
-  funFact: "comecei em ADVPL e agora tô traduzindo ERP pra Java 🚀",
-};
+  role: "Desenvolvedor Júnior",
+  code: ["ADVPL", "Java", "JavaScript", "SQL"],
+  tools: ["Protheus", "Vue.js", "Oracle", "Power BI", "Git"],
+  learning: ["Java", "Spring Boot"],
+  challenge: "Construindo um Mini ERP Comercial Oracle."
+}
 ```
+<div align="center">
+<h2 align="center">🧰 Stack & Ferramentas</h2>
 
-<p align="center">⋆ ⋆ ⋆</p>
+<img align="center"
+src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif"
+width="6%"
+/>
+<img align="center"
+src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif"
+width="6%"
+/>
+<img align="center"
+src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif"
+width="6%"
+/>
+<img align="center"
+src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif"
+width="6%"
+/>
+<img align="center"
+src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif"
+width="6%"
+/>
 
-## 📌 foco atual
-
-- 🔧 &nbsp;customizando uma **Consulta Padrão** para um campo da `SZ8`, com filtro dinâmico vindo da `BN5`
-- 🌱 &nbsp;seguindo um plano de estudos estruturado (jul–dez) rumo a **Java + Spring Boot**
-- 🎯 &nbsp;mirando vagas júnior de backend em empresas como **TOTVS, Itaú e Bradesco**
-- 💬 &nbsp;me pergunte sobre **ADVPL**, integrações no Protheus, ou como sair do ERP pro backend moderno
-
-<p align="center">⋆ ⋆ ⋆</p>
-
-## 🧰 stack & ferramentas
-
-<table align="center">
-<tr>
-<td valign="top" width="50%">
-
-**ERP / TOTVS**
-<p>
-<img src="https://img.shields.io/badge/ADVPL-101617?style=for-the-badge" />
-<img src="https://img.shields.io/badge/TOTVS_Protheus-101617?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Oracle_SQL-101617?style=for-the-badge&logo=oracle&logoColor=DDA366" />
-<img src="https://img.shields.io/badge/Power_BI-101617?style=for-the-badge&logo=powerbi&logoColor=DDA366" />
-</p>
-
-**Front-end**
-<p>
-<img src="https://img.shields.io/badge/Vue.js-101617?style=for-the-badge&logo=vuedotjs&logoColor=DDA366" />
-<img src="https://img.shields.io/badge/JavaScript-101617?style=for-the-badge&logo=javascript&logoColor=DDA366" />
-<img src="https://img.shields.io/badge/HTML5-101617?style=for-the-badge&logo=html5&logoColor=DDA366" />
-<img src="https://img.shields.io/badge/CSS3-101617?style=for-the-badge&logo=css3&logoColor=DDA366" />
-</p>
-
-</td>
-<td valign="top" width="50%">
-
-**Ferramentas**
-<p>
-<img src="https://img.shields.io/badge/Git-101617?style=for-the-badge&logo=git&logoColor=DDA366" />
-<img src="https://img.shields.io/badge/GitHub-101617?style=for-the-badge&logo=github&logoColor=DDA366" />
-<img src="https://img.shields.io/badge/VS_Code-101617?style=for-the-badge&logo=visualstudiocode&logoColor=DDA366" />
-<img src="https://img.shields.io/badge/Postman-101617?style=for-the-badge&logo=postman&logoColor=DDA366" />
-</p>
-
-**🌱 em transição para**
-<p>
-<img src="https://img.shields.io/badge/Java-7A4A24?style=for-the-badge&logo=openjdk&logoColor=F0C99B" />
-<img src="https://img.shields.io/badge/Spring_Boot-7A4A24?style=for-the-badge&logo=springboot&logoColor=F0C99B" />
-</p>
-
-</td>
-</tr>
-</table>
-
-<p align="center">⋆ ⋆ ⋆</p>
-
-## 📊 github stats
+<br/>
 
 <div align="center">
 
 <img
 src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabriel-vcampos&show_icons=true&hide_border=true&bg_color=101617&title_color=DDA366&text_color=ECA567&icon_color=DDA366"
-width="48%"
+width="44%"
 />
-<img src="https://streak-stats.demolab.com?user=Gabriel-vcampos&hide_border=true&background=101617&stroke=101617&ring=DDA366&fire=DDA366&currStreakLabelColor=F0C99B" alt="GitHub Streak" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gabriel-vcampos&layout=compact&hide_border=true&bg_color=101617&title_color=DDA366&text_color=ECA567" width="40%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gabriel-vcampos&layout=compact&hide_border=true&bg_color=101617&title_color=DDA366&text_color=ECA567" width="36%"/>
 
 </div>
 
-<p align="center">⋆ ⋆ ⋆</p>
 
-## 🐍 contribuições
-
-<div align="center">
+<div class="mt-10" align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabriel-vcampos/Gabriel-vcampos/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabriel-vcampos/Gabriel-vcampos/output/github-snake.svg" />
@@ -116,9 +64,21 @@ width="48%"
 </picture>
 </div>
 
+
 <div class="mt-10" align="center">
 <img src="life-balance.svg" width="380" alt="checkboxes de vida social, trabalho e sono se alternando, nunca os três marcados ao mesmo tempo" />
 </div>
 
+<div align="center">
 
+<h2 align="center">
+<img align="center" src="https://user-images.githubusercontent.com/74038190/216649436-05c6a71a-0566-45aa-bc3f-f258ab12e491.gif" width="40">
+&nbsp;Entre em contato
+</h2>
+
+<a href="https://www.linkedin.com/in/gabrielvirginiocampos/" target="_blank">
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="20%"/>
+</a>
+
+</div>
 
